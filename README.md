@@ -5,9 +5,7 @@
 -->
 
 
-My name is Jyotishka Datta. I am an Assistant Professor of Statistics in the Department of Statistics at Virginia Tech (Virginia Polytechnic Institute and State University).
-
-My research interest spans Bayesian methodology and theory for structured, often high-dimensional data. I have contributed to the areas of global-local priors, multiple testing, shrinkage estimation, sparse signal recovery, nonparametric Bayes, bioinformatics, and default Bayes. Recent applications include next-gen sequencing studies, auditory neuroscience, ecology and crime forecasting.
+Jyotishka Datta is an Associate Professor of Statistics at Virginia Tech, where he previously served as an Assistant Professor. From 2016 to 2020, he was an Assistant Professor in the Department of Mathematical Sciences at the University of Arkansas, Fayetteville. His research focuses on Bayesian methodology and theory for structured high-dimensional data, including shrinkage estimation, sparse signal recovery, graphical modeling, and nonparametric Bayes. His work spans applications in astronomy, cancer genomics, neuroscience, ecology, and crime forecasting. He received the NSF CAREER Award in 2025 and the Dayanand Naik Award from the Virginia Chapter of the American Statistical Association in 2023.
 
  My Google Scholar Profile: [http://bit.ly/1OTdd9h](http://bit.ly/1OTdd9h), and 
  my Github repo: [https://github.com/dattahub](https://github.com/dattahub). 
