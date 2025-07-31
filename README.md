@@ -5,7 +5,7 @@
 -->
 
 
-Jyotishka Datta is an Associate Professor of Statistics at Virginia Tech, where he previously served as an Assistant Professor. From 2016 to 2020, he was an Assistant Professor in the Department of Mathematical Sciences at the University of Arkansas, Fayetteville. His research focuses on Bayesian methodology and theory for structured high-dimensional data, including shrinkage estimation, sparse signal recovery, graphical modeling, and nonparametric Bayes. His work spans applications in astronomy, cancer genomics, neuroscience, ecology, and crime forecasting. He received the NSF CAREER Award in 2025 and the Dayanand Naik Award from the Virginia Chapter of the American Statistical Association in 2023.
+I am an Associate Professor of Statistics at Virginia Tech, where I work on Bayesian methods for high-dimensional data. My research focuses on shrinkage, sparse signal recovery, and graphical models, with applications in fields like astronomy, genomics, neuroscience, and public policy. I was honored to receive the NSF CAREER Award in 2025 and the Dayanand Naik Award from the Virginia Chapter of the ASA in 2023.
 
  My Google Scholar Profile: [http://bit.ly/1OTdd9h](http://bit.ly/1OTdd9h), and 
  my Github repo: [https://github.com/dattahub](https://github.com/dattahub). 
