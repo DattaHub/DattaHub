@@ -13,7 +13,6 @@ I am an Associate Professor of Statistics at Virginia Tech, where I work on Baye
  Please visit: [https://jyotishkadatta.wordpress.com/](https://jyotishkadatta.wordpress.com/) for details on my publications, teaching, CV etc. 
  
 - 📫 How to reach me: jyotishka[at]vt[dot]edu. 
-- 😄 Pronouns: he/him/his.
 
 <!--
 - 🔭 I’m currently working on ...
